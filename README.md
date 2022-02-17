@@ -22,3 +22,13 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Project requires Bing maps API Key
+```
+Obtained from: https://www.bingmapsportal.com/
+```
+
+### API key insertion
+```
+Generated API key needs to be inserted into TheForm.vue with APIkey data declaration.
+```
